@@ -1,2 +1,3 @@
 # this is a test script
-print('Holy fuck -- git is kinda cool?')
+print('Holy fuck -- git is not kinda cool?')
+print("My disappointment is immeasurable.")
