@@ -1,2 +1,2 @@
 # this is a test script
-print('Hello')
+print('Holy fuck -- git is kinda cool?')

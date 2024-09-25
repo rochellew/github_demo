@@ -1,3 +1,4 @@
-# github_demo
+# GitHub Demo
+## CSCI 2910
 
-Here's a description that I can't be bothered to write.
+This repository is designed to show how git works at a basic level.
